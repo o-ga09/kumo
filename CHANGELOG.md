@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.8.0](https://github.com/o-ga09/kumo/commits/v0.8.0) - 2026-04-11
+
 ## [v0.8.0](https://github.com/sivchari/kumo/compare/v0.7.0...v0.8.0) - 2026-04-07
 - feat(sqs): add DeleteMessageBatch action by @sivchari in https://github.com/sivchari/kumo/pull/395
 - fix(sqs): resolve queue by URL path to handle hostname mismatch by @sivchari in https://github.com/sivchari/kumo/pull/394
