@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.24.2](https://github.com/o-ga09/kumo/compare/v0.24.1...v0.24.2) - 2026-06-04
+
 ## [v0.24.1](https://github.com/sivchari/kumo/compare/v0.24.0...v0.24.1) - 2026-05-30
 - fix(cloudfront): support SHA256 signed cookie/URL verification by @sivchari in https://github.com/sivchari/kumo/pull/768
 - release v0.24.1 by @sivchari in https://github.com/sivchari/kumo/pull/770
