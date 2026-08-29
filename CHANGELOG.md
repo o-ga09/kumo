@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.29.0](https://github.com/o-ga09/kumo/compare/v0.25.3...v0.29.0) - 2026-08-29
+
 ## [v0.28.1](https://github.com/sivchari/kumo/compare/v0.28.0...v0.28.1) - 2026-08-07
 - fix(ci): reduce fuzz test worker parallelism to avoid CI flake by @sivchari in https://github.com/sivchari/kumo/pull/912
 - fix(cli): restore v0.27.0 CLI compatibility broken by cli-gen migration by @sivchari in https://github.com/sivchari/kumo/pull/914
